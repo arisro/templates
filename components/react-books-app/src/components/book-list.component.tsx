@@ -201,7 +201,7 @@ export default class BookList extends Component<Props, State>{
                 className="m-3 btn btn-sm btn-danger"
                 onClick={this.removeAllBooks}
               >
-                Remove All Books
+                Remove All Books now
               </button>}
           </div>
         </div>
