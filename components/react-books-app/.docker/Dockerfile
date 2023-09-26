@@ -1,5 +1,3 @@
-BREAK THIS
-
 # dev stage
 FROM node:16-alpine as dev
 
