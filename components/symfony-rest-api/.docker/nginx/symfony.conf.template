@@ -6,7 +6,7 @@ server {
     server_name _;
 
     listen 8080; ## listen for ipv4; this line is default and implied
-    listen [::]:8080; ## listen for ipv6zz
+    listen [::]:8080; ## listen for ipv6zzz
 
     root /var/www/public;
     index index.php index.html index.htm;
