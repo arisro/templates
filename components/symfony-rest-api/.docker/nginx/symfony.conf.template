@@ -5,7 +5,7 @@ upstream php-upstream {
 server {
     server_name _;
 
-    listen 8080; ## listen for ipv4; this line is default and impliedzzz
+    listen 8080; ## listen for ipv4; this line is default and impliedzzzzzz
     listen [::]:8080; ## listen for ipv6zzzzz
 
     root /var/www/public;
