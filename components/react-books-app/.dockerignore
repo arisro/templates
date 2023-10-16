@@ -1,4 +1,4 @@
-# dist folder, anyway Dockerfile should build its own
+# dist folder, anyway Dockerfile should build its ownz
 build/
 
 # node_module, Dockerfile should install its own
