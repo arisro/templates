@@ -96,6 +96,8 @@ VOLUME /var/www/var/
 
 USER docker
 
+RUN bleh
+
 # - composer install without scripts
 ENV APP_ENV=dev
 RUN composer install --optimize-autoloader --no-scripts
